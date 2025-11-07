@@ -178,10 +178,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-- **LinkedIn**: [http://www.linkedin.com/in/daniel-kiendi]
+- **LinkedIn**: http://www.linkedin.com/in/daniel-kiendi
 - **Email**: danielkiendik@gmail.com
 - **Portfolio**: 
-- **GitHub**: [@YourUsername](https://github.com/YourUsername)
+- **GitHub**: @danelkiendi(https://github.com/danielkiendik-coder)
 
 ## ⚠️ Disclaimer
 
